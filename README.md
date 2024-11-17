@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME:pravin kumar G</H3>
 <H3>ENTER YOUR REGISTER NO:212222230109</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:</H3>
+<H3>DATE:19.08.24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
